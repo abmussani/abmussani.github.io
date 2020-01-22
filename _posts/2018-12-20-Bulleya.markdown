@@ -5,6 +5,9 @@ description: "Bulleya Ki jaana main Kaun"
 date:   2018-12-20 20:25:15 +0500
 categories: poetry
 ---
+
+<img src="{{site.baseurl}}/assets/img/DSC_0020.jpg" />
+
 <strong>Na main momin vich maseetaan</strong>
 <strong>Na main vich kufar diyan reetaan</strong>
 <strong>Na main paakaan vich paleetaan</strong>
