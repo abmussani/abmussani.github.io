@@ -4,7 +4,7 @@ title:  "Bulleya Ki jaana main Kaun"
 description: "Bulleya Ki jaana main Kaun"
 date:   2018-12-20 20:25:15 +0500
 categories: poetry
-image: DSC_0020.jpg
+image: DSC_0018.jpg
 ---
 
 <strong>Na main momin vich maseetaan</strong>
