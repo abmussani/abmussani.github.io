@@ -7,8 +7,6 @@ categories: poetry
 image: DSC_0020.jpg
 ---
 
-<img src="{{site.baseurl}}/assets/img/DSC_0020.jpg" />
-
 <strong>Na main momin vich maseetaan</strong>
 <strong>Na main vich kufar diyan reetaan</strong>
 <strong>Na main paakaan vich paleetaan</strong>
