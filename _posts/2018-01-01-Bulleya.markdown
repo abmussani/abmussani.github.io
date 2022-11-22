@@ -2,7 +2,7 @@
 layout: post
 title:  "Bulleya Ki jaana main Kaun"
 description: "Bulleya Ki jaana main Kaun"
-date:   2018-12-20 20:25:15 +0500
+date:   2018-01-01 20:25:15 +0500
 categories: poetry
 image: DSC_0018.jpg
 ---
