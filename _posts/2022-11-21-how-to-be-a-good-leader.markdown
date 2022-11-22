@@ -6,8 +6,7 @@ date:   2022-11-21 00:00:00 +0500
 categories: leadership
 ---
 
-Since 2017, I have been acting as a Line Manager. Most of my managees and other fellow colleagues, ask me this question, "How to be a good leader". This time I planned to gather all points 
-here for future refrences. There could be many more but these are the one I practise in project since 2014.
+Since 2017, I have been acting as a Line Manager. Most of my managees and other fellow colleagues, ask me this question, "How to be a good leader". This time I planned to gather all points here for future refrences. There could be many more but these are the one I am practising in projects since 2014.
 
 * A great leader isn't one who holds a candle up for others, but helps them light their candles instead.
 
@@ -25,7 +24,7 @@ here for future refrences. There could be many more but these are the one I prac
 
 * It's about getting your team to work together, not about goals and targets. (Though you should have them.) Make time to listen to them.
 
-* Ask for help, hopefully you're not the only one. If you are having trouble reach out, people will respect you for it, not think less of you, you may inspire them to do the same. Ask for advice, 
+* Ask for help & advice, hopefully you're not the only one. If you are having trouble reach out, people will respect you for it, do not think less of you, you may inspire them to do the same.
 
 * Be accountable to those below you.
 
